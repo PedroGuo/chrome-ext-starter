@@ -1,0 +1,15 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "include": [
+    "vite.config.*",
+    "package.json",
+    "vitest.config.*",
+    "cypress.config.*",
+    "src/**/*.ts",
+    "scripts/**/*.ts"
+  ],
+  "compilerOptions": {
+    "composite": true,
+    "types": ["node", "chrome",]
+  }
+}
