@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "description": "Chrome extension template with Vue3, Vite and Typescript preconfigured.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boy-yan/chrome-ext-starter.git"
+  },
   "scripts": {
     "dev": "nodemon",
     "build": "run-p type-check build-only",
