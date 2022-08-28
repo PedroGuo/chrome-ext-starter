@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "chrome-ext-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Chrome extension template with Vue3, Vite and Typescript preconfigured.",
   "options_page": "src/options/index.html",
   "background": {

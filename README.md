@@ -21,7 +21,6 @@ This template was made to keep the size of the expansion pack as small as possib
 - [Prettier](https://prettier.io/)
 - [Chrome Extension Manifest Version 3](https://developer.chrome.com/docs/extensions/mv3/intro/)
 
-## Installation <a name="installation"></a>
 
 ### Procedures <a name="procedures"></a>
 
