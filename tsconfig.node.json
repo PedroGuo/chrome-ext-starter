@@ -10,6 +10,7 @@
   ],
   "compilerOptions": {
     "composite": true,
-    "types": ["node", "chrome",]
+    "lib": ["esnext", "dom"],
+    "types": ["node", "chrome"]
   }
 }

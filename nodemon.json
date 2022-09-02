@@ -4,6 +4,6 @@
     "scripts",
     "vite.config.ts"
   ],
-  "ext": "tsx,css,html,ts",
+  "ext": "tsx,css,html,ts,vue",
   "exec": "vite build"
 }
