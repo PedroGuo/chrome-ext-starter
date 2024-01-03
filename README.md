@@ -41,4 +41,4 @@ This template was made to keep the size of the expansion pack as small as possib
 
 ## License
 
-Distributed under the [MIT License](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite/blob/main/LICENSE).
+Distributed under the [MIT License](https://github.com/boy-yan/chrome-ext-starter/blob/master/LICENSE).
